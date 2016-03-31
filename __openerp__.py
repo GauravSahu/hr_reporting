@@ -35,7 +35,7 @@ Human Resources & Payroll Reporting
         'base','hr','hr_holidays','hr_payroll','hr_contract','hr_attendance','holiday_calendar'
     ],
     'data': [
-        'hr_reporting_view.xml'
+        'wizard/hr_reporting_wiz_view.xml'
     ],
     'installable': True,
     'application': True,
